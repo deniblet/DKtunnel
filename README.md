@@ -1,6 +1,5 @@
 # LINK UUIDGEN : https://www.uuidgenerator.net/
-# FREE PROXYIP : 
-https://raw.githubusercontent.com/deniblet/DKtunnel/main/443.txt
+# FREE PROXYIP : https://raw.githubusercontent.com/deniblet/DKtunnel/main/443.txt
 https://raw.githubusercontent.com/deniblet/DKtunnel/main/443-2.txt
 # CEK REGION PROXYIP : https://ip2geo.org/
 ## Deploy in worker.dev
